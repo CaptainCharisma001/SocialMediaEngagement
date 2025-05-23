@@ -7,7 +7,7 @@ A short description of your project.
 Here are some image previews from the repository:
 
 ### Image 1
-![Image 1](Facebook Screenshot.png)
+![Image 1](Facebook.png)
 
 ### Image 2
 ![Image 2](Twitter Screenshot.png)
