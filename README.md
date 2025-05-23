@@ -8,7 +8,7 @@ This phase was instrumental in uncovering foundational insights and informing su
 
 ### 🧮 1. Facebook Social Media Engagements
 
-![Distribution of Target Variable](Facebppk.png)
+![Distribution of Target Variable](Facebook.png)
 
 The histogram above provides a comprehensive view of how the target variable is distributed across the dataset. This helps in understanding class imbalance, which is critical for designing effective predictive models. As seen, there is a significant skew toward one class, indicating the need for appropriate resampling techniques or performance metrics during modeling.
 
@@ -22,17 +22,17 @@ This time-series line chart illustrates the temporal behavior of transaction fre
 
 ---
 
-### 🧭 3. Instagram Social Media Engagements
+### 🧭 3. Twitter Social Media Engagement
 
-![Correlation Heatmap](Instagram.png)
+![Correlation Heatmap](Twitter.png)
 
 The correlation heatmap visually presents the strength and direction of relationships between selected numerical variables. Strong positive and negative correlations were identified, offering direction for feature selection, dimensionality reduction (e.g., PCA), and multicollinearity considerations in regression models.
 
 ---
 
-### 🧱 4. Twitter Social Media Engagement
+### 🧱 4. Instagram Social Media Engagements
 
-![Categorical Feature Breakdown](twitter.png)
+![Categorical Feature Breakdown](Instagram.png)
 
 This bar chart dissects how different categorical groups (such as regions, user types, or product classes) compare across a selected numerical metric. It helps identify dominant contributors or underrepresented groups, guiding potential feature engineering efforts.
 
