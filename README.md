@@ -1,6 +1,7 @@
 ## 📊 Descriptive Analysis Overview
 
-Social Media Engagement Analysis Project
+**Social Media Engagement Analysis Project**
+
 This project analyzes social media engagement metrics across four major platforms: Facebook, LinkedIn, Twitter, and Instagram. The analysis provides insights into user behavior, content performance, and platform-specific trends.
 
 Contents:
