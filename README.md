@@ -30,9 +30,9 @@ The correlation heatmap visually presents the strength and direction of relation
 
 ---
 
-### 🧱 4. Instagram Social Media Engagements
+### 🧱 4. IG Social Media Engagements
 
-![Categorical Feature Breakdown](Instagram.png)
+![Categorical Feature Breakdown](IG.png)
 
 This bar chart dissects how different categorical groups (such as regions, user types, or product classes) compare across a selected numerical metric. It helps identify dominant contributors or underrepresented groups, guiding potential feature engineering efforts.
 
