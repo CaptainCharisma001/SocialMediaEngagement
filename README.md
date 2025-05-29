@@ -11,7 +11,7 @@ Contents:
 
 ---
 
-### 🧮 1. Facebook Social Media Engagements
+### 📘 1. Facebook Social Media Engagements
 
 ![Engagement Analysis](Facebook.png)
 
@@ -19,7 +19,7 @@ The Dashboard above provides a comprehensive view of how the target variable is 
 
 ---
 
-### 📈 2. LinkedIn Social Media Engagement
+### 🔗 2. LinkedIn Social Media Engagement
 
 ![Impression Analysis](LinkedIn.png)
 
@@ -28,7 +28,7 @@ The Dashboard above provides a comprehensive view of how the target variable is 
 
 ---
 
-### 🧭 3. Twitter Social Media Engagement
+### ✖️ 3. Twitter Social Media Engagement
 
 ![Engagement Analysis](Twitter.png)
 
@@ -38,7 +38,7 @@ The Dashboard above provides a comprehensive view of how the target variable is 
 
 ---
 
-### 🧱 4. IG Social Media Engagements
+### 📷 4. IG Social Media Engagements
 
 ![Engagement Analysis](IG.png)
 
